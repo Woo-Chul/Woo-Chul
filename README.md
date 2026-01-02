@@ -1,7 +1,7 @@
 # Sim WooChul
 
 AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.  
-10+ years of experience in research and applied machine learning.
+7+ years of experience in research and applied machine learning.
 
 ---
 
@@ -42,7 +42,8 @@ AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.
 
 ## Background
 - M.S. in Artificial Intelligence
-- Research & Development (2015–Present)
+- Research & Development (2019–Present)
+- Development (2015–2019)
 
 ---
 
