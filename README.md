@@ -20,7 +20,7 @@ AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.
 - **Inventor Name Disambiguation Models**
 - **Semantic Similarity & STS Models for Korean Text**
 
-→ Details: [Research Archive](./docs)
+→ Details: [Research Archive](./../RnD-Patent)
 
 ---
 
