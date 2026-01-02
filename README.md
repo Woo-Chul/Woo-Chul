@@ -27,10 +27,15 @@ AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.
 
 ---
 
-## Publications & Patents
-- *Automatic Dataset Construction for Korean Patent Search*  
-- *Deep Learning-based Patent Retrieval Model*  
-- Multiple Korean patent applications related to search & NLP
+## Publications & Papers
+- *An Automatic Patent Classification Method Considering the Hierarchical Feature of CPC*  
+- *An automatic patent classification method using a CPC generation filter*  
+- A Study on Judging Phonetic Similarities for Trademark Searches by Focusing on Enhancing the Search Precision of Korean and English Character Trademarks
+- A Study on the Automatic Classification of CPC Considering the Characteristics of Korean Patent Documents and Deep Learning-based Classification Model
+- A Study on Automatic CPC Classification based on Korean Patent Sentence ―A Deep Learning Approach using Artificial Intelligence Language Model KorPatBERT
+- Patent Tokenizer: a research on the optimization of tokenize for the Patent sentence using the Morphemes and SentencePiece
+- Hybrid Approach Combining Deep Learning and Rule-Based Model for Automatic IPC Classification of Patent Documents
+
 
 ---
 
