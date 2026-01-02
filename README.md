@@ -1,28 +1,52 @@
-## 👋 Sim WooChul
+# Sim WooChul
 
-### 🧠 Research & Engineering Experience (10+ years)
-- AI Research Engineer (2015–Present)
-- Specialization: NLP, Patent Search, Deep Learning
-- M.S. in Artificial Intelligence
+AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.  
+10+ years of experience in research and applied machine learning.
 
-### 🔬 Research Interests
+---
+
+## Research Interests
 - Patent Retrieval & Semantic Search
-- Korean NLP
-- LLM / Transformer-based Models
+- Korean NLP & Tokenization
+- Transformer-based Models and LLMs
+- Name Disambiguation / Entity Resolution
 
-### 🧪 Major Projects
-- Automatic Construction of Korean Patent Search Dataset
-- Deep Learning-based Patent Retrieval System
-- Name Disambiguation & Inventor Identification
+---
 
-### 📄 Publications & Patents
-- [Paper] ...
-- [Patent] ...
+## Selected Work
+- **A Study on Automatic CPC Classification System based on Korean Patent Sentence**
+- **Automatic Construction of Korean Patent Search Datasets**
+- **Deep Learning-based Patent Retrieval Systems**
+- **Inventor Name Disambiguation Models**
+- **Semantic Similarity & STS Models for Korean Text**
 
-### 🛠 Tech Stack
-- Python, PyTorch, JAX
-- HuggingFace, FAISS
-- Linux, Docker
+→ Details: [Research Archive](./docs)
 
-### 📫 Contact
-- Email / LinkedIn / Google Scholar
+---
+
+## Publications & Patents
+- *Automatic Dataset Construction for Korean Patent Search*  
+- *Deep Learning-based Patent Retrieval Model*  
+- Multiple Korean patent applications related to search & NLP
+
+---
+
+## Technical Stack
+- **Languages**: Python  
+- **ML/DL**: PyTorch, HuggingFace, JAX  
+- **NLP**: Custom Korean Tokenizer, BERT-based Models  
+- **Search**: FAISS, Dense Retrieval  
+- **Infra**: Linux, Docker
+
+---
+
+## Background
+- M.S. in Artificial Intelligence
+- Research & Development (2015–Present)
+
+---
+
+## Contact
+- E-mail: swdl77@naver.com
+- GitHub: https://github.com/Woo-Chul
+
