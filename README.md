@@ -14,11 +14,14 @@ AI Research Engineer focused on **NLP, Patent Search, and Deep Learning**.
 ---
 
 ## Selected Work
-- **A Study on Automatic CPC Classification System based on Korean Patent Sentence**
-- **Automatic Construction of Korean Patent Search Datasets**
-- **Deep Learning-based Patent Retrieval Systems**
-- **Inventor Name Disambiguation Models**
-- **Semantic Similarity & STS Models for Korean Text**
+- **(2019)** Research on an Automated IPC Classification Recommendation System for Korean Patents
+- **(2020)** Research on Korean Patent Language Models and NER for Composition and Physical Properties in Chemical Patents
+- **(2021)** Research and Development of an Automated CPC Classification Recommendation System for Korean Patents
+- **(2022)** Research on a Weak Signal Detection System for Automatically Identifying High-Value Patents
+- **(2023)** Research and Development of an AI-based Trademark Name Similarity Search System
+- **(2024)** Research on Performance Enhancement of an Automated CPC Classification Recommendation System
+- **(2025)** Research on Constructing Korean Search Training Datasets to Improve AI-based Patent Search Systems
+
 
 → Details: [Research Archive](https://github.com/Woo-Chul/RnD-Patent)
 
